@@ -27,6 +27,9 @@ This repository contains all lab practicals, source codes (`.l`, `.y`), executio
 | **05** | Case toggle: Uppercase to lowercase & lowercase to uppercase | [`toggle_case.l`](./Practical-05/toggle_case.l) | [View](./Practical-05/output.png) | [PDF](./Practical-05/Practical-05.pdf) |
 | **06** | Decimal to Hexadecimal & Hexadecimal to Decimal conversion | [`decimal_to_hexadecimal.l`](./Practical-06/decimal_to_hexadecimal.l)<br>[`hexadecimal_to_decimal.l`](./Practical-06/hexadecimal_to_decimal.l) | [Part 1](./Practical-06/output_page_1.png)<br>[Part 2](./Practical-06/output_page_2.png) | [PDF](./Practical-06/Practical-06.pdf) |
 | **07** | Pattern matching: Test input lines ending with 'com' / 'COM' | [`check_ends_with_com.l`](./Practical-07/check_ends_with_com.l) | [View](./Practical-07/output.png) | [PDF](./Practical-07/Practical-07.pdf) |
+| **08** | Postfix Expression Evaluation using YACC & LEX | [`exp8.l`](./Practical-08/exp8.l)<br>[`exp8.y`](./Practical-08/exp8.y) | [README](./Practical-08/README.md) | — |
+| **09** | Infix Arithmetic Expression Evaluation with Precedence & Unary Operators | [`exp9.l`](./Practical-09/exp9.l)<br>[`exp9.y`](./Practical-09/exp9.y) | [README](./Practical-09/README.md) | — |
+| **10** | For Loop and Ternary Expression Syntax Validation | [`exp10.l`](./Practical-10/exp10.l)<br>[`exp10.y`](./Practical-10/exp10.y) | [README](./Practical-10/README.md) | — |
 
 ---
 
