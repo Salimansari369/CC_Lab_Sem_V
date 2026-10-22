@@ -25,4 +25,9 @@ gcc y.tab.c lex.yy.c -lm -o exp8
 ```
 
 ## 🖥️ Output / Execution Screenshot
-> *(Screenshots will be uploaded shortly)*
+
+![Output Preview](./output_page_1.png)
+
+![Output Preview](./output_page_2.png)
+
+📄 **Full PDF Lab Report:** [`Practical-08.pdf`](./Practical-08.pdf)

@@ -25,4 +25,7 @@ gcc y.tab.c lex.yy.c -o exp10
 ```
 
 ## 🖥️ Output / Execution Screenshot
-> *(Screenshots will be uploaded shortly)*
+
+![Output Preview](./output.png)
+
+📄 **Full PDF Lab Report:** [`Practical-10.pdf`](./Practical-10.pdf)
