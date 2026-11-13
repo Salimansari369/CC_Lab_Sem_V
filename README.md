@@ -31,6 +31,7 @@ This repository contains all lab practicals, source codes (`.l`, `.y`), executio
 | **09** | Infix Arithmetic Expression Evaluation with Precedence & Unary Operators | [`exp9.l`](./Practical-09/exp9.l)<br>[`exp9.y`](./Practical-09/exp9.y) | [Part 1](./Practical-09/output_page_1.png)<br>[Part 2](./Practical-09/output_page_2.png) | [PDF](./Practical-09/Practical-09.pdf) |
 | **10** | For Loop and Ternary Expression Syntax Validation | [`exp10.l`](./Practical-10/exp10.l)<br>[`exp10.y`](./Practical-10/exp10.y) | [View](./Practical-10/output.png) | [PDF](./Practical-10/Practical-10.pdf) |
 | **11** | Variable Declaration Syntax Validation using YACC & LEX | [`variable.l`](./Practical-11/variable.l)<br>[`variable.y`](./Practical-11/variable.y) | [View](./Practical-11/output.png) | [PDF](./Practical-11/Practical-11.pdf) |
+| **12** | Intermediate Code Generation (ICG) for Arithmetic Expressions | [`exp12.l`](./Practical-12/exp12.l)<br>[`exp12.y`](./Practical-12/exp12.y) | [View](./Practical-12/output.png) | [PDF](./Practical-12/Practical-12.pdf) |
 
 ---
 
